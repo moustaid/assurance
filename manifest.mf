@@ -6,3 +6,4 @@ test feature
 toto1
 toto2
 toto3
+toto4
