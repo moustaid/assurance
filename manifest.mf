@@ -13,12 +13,3 @@ toto8
 toto6
 toto7
 toto8
-<<<<<<< .mine
-toto7
-toto8
-toto10
-=======
-toto6
-toto7
-toto8
->>>>>>> .theirs
