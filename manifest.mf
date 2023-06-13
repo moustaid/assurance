@@ -8,6 +8,17 @@ toto2
 toto3
 toto4
 toto5
+toto6
+toto8
+toto6
+toto7
+toto8
+<<<<<<< .mine
 toto7
 toto8
 toto10
+=======
+toto6
+toto7
+toto8
+>>>>>>> .theirs
