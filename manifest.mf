@@ -1,4 +1,3 @@
-Manifest-Version: 1.0
 X-COMMENT: Main-Class will be added automatically by build
 add one
 Test Master
@@ -8,6 +7,8 @@ toto2
 toto3
 toto4
 toto5
+toto6
 toto7
+toto8
 toto9
 toto10
