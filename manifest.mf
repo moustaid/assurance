@@ -13,8 +13,5 @@ toto8
 toto9
 toto10
 toto11
-<<<<<<< HEAD
-toto13
-=======
 toto12
->>>>>>> 240a295 (toto12)
+toto13
